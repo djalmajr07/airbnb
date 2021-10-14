@@ -1,6 +1,10 @@
 # Airbnb
+New User Bookings with Neural Network
+
+![image](https://user-images.githubusercontent.com/85264359/137345038-c14aa832-6943-4cbc-98cc-f33a2e739a4e.png)
 
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/djalmajr07/airbnb/blob/main/LICENSE)
 
 # Airbnb prediction case
 
@@ -9,7 +13,8 @@ In this case, you are given a list of users along with their demographics, web s
 There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
 
 # Attribute List
-
+![image](https://user-images.githubusercontent.com/85264359/137345060-24a809ac-7a07-4b33-9164-8ac7edb39465.png)
+ 
 
 
 
@@ -40,28 +45,11 @@ The method applied was CRISP-DM:
 
 **Step 10. Deploy Model to Production:** Publish the model to a cloud environment so that other people or services can use the results to improve the business decision.
 
-**Step 11. Telegram Bot:** Creation of a bot on the telegram app, to consult the forecast at any time
-
-# Top Three Data Insights
 
 # Machine Learning Models Applied
-Tests were performed using the following algorithms:
+Tests were performed using the following algorithm:
 
 **Neural Network**
-
-
-# 6. Machine Learning Model Performance
-
-**Single Performance**
-
-
-
-
-**Real Performance - Cross Validation**
-
-
-
-**Final Performance - Hyperparameter Fine Tunning Cross Validation**
 
 
 
@@ -70,5 +58,8 @@ Tests were performed using the following algorithms:
 Under development.
 
 
-#  Next steps
+
+# Author 
+Djalma Jr 
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/djalmajunior07)
 
