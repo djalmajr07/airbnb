@@ -9,12 +9,19 @@ New User First Destination Selection Prediction with Neural Network
 
 
 # Airbnb Prediction Problem
+New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
+
+In this case was given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
+
+There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
+
 
 
 
 # Attribute List
 
-(table attribute print)
+![image](https://user-images.githubusercontent.com/85264359/137341805-e4f7d32b-ce25-44ab-aa5a-8e486096d982.png)
+
 
 
 # Solution Strategy
@@ -43,7 +50,7 @@ The method applied was CRISP-DM:
 
 **Step 11. Telegram Bot:** Creation of a bot on the telegram app, to consult the forecast at any time
 
-# Top Three Data Insights
+
 
 # Machine Learning Models Applied
 Tests were performed using the following algorithms:
@@ -51,28 +58,9 @@ Tests were performed using the following algorithms:
 **Neural Network**
 
 
-# Machine Learning Model Performance
-
-**Single Performance**
-
-
-
-
-**Real Performance - Cross Validation**
-
-
-
-**Final Performance - Hyperparameter Fine Tunning Cross Validation**
-
-
-
 #  Conclusion
 
 Under development.
-
-
-#  Next steps
-
 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/djalmajunior07)
